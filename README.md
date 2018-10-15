@@ -5,6 +5,6 @@ Promovido pelo programa de Extensão Estatística é com R!
 
 Nosso site <www.estatisticacomr.uffb.br>
 
-Inscreva-se no canal youtube: <youtube.com/estatisticacomr>
+Inscreva-se no canal youtube: <www.youtube.com/estatisticacomr>
 
-Siga-nos no facebook: <facebook.com/estatisticacomr>
+Siga-nos no facebook: <www.facebook.com/estatisticacomr>
