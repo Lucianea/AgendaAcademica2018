@@ -3,7 +3,7 @@ Minicurso de Introdução ao R ministrada na Agenda Acadêmica 2018 - UFF
 
 Promovido pelo programa de Extensão Estatística é com R! 
 
-Nosso site <www.estatisticacomr.uffb.br>
+Nosso site <www.estatisticacomr.uff.br>
 
 Inscreva-se no canal youtube: <www.youtube.com/estatisticacomr>
 
