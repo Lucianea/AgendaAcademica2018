@@ -1,7 +1,7 @@
 # AgendaAcademica2018
 Minicurso de Introdução ao R ministrado na Agenda Acadêmica 2018 - UFF
 
-Dia 16/10/2018 - presencial de 9h às 12h
+Dia 16/10/2018 - presencial de 9h às 12h - GRATUITO
 
 Vagas: 15
 
